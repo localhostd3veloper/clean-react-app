@@ -2,12 +2,14 @@
 
 **this is a cleaner template than npm's create-react-app**
 
-> Just copy the contents to your project repository
-> Open Terminal
-> `cd path/to/repo`
-> Okay, You have successfully navigated to the project folder
-> `npm install`
-> One Last Thing!
-> `npm start`
+1. Just copy the contents to your project repository
+2. Open Terminal
+   > `cd path/to/repo`
+3. Okay, You have successfully navigated to the project folder
+   > `npm install`
+4. One Last Thing!
+   > `npm start`
 
 **Happy Hacking**
+
+This repo developed by [Gautam Anand](https://www.linkedin.com/in/localhostdeveloper/).
