@@ -12,4 +12,4 @@
 
 **Happy Hacking**
 
-This repo is developed [Gautam Anand](https://www.linkedin.com/in/localhostdeveloper/).
+This repo is developed by [Gautam Anand](https://www.linkedin.com/in/localhostdeveloper/).
